@@ -377,7 +377,7 @@ class CustomColumnsDatatableView(DemoMixin, DatatableView):
     defined explicitly all in one go.
 
     INFO:
-    See the <a href="columns-reference">``columns`` reference</a> page for the full list of
+    See the <a href="/columns-reference/">``columns`` reference</a> page for the full list of
     ``Column`` classes available for use.
 
     When a column is virtual (computed), <a href="/compound-columns/">compound</a>, or requires a
